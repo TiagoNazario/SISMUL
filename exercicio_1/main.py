@@ -1,1 +1,1 @@
-import Rectangle from calc
+from geo import rectangle
